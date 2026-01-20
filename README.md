@@ -21,6 +21,6 @@ This repository contains a MATLAB implementation of a 2D incompressible laminar 
 ## How to run
 
 Run in Matlab or Octave Lid_driven_cavity.m
-## Author
+
 
 
